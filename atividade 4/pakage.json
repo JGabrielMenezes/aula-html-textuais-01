@@ -1,0 +1,13 @@
+{
+  "name": "documents.html",
+  "version": "1.0.0",
+  "description": "documento",
+  "main": "documents.html",
+  "scripts": {
+  },
+  "keywords": [
+    "documento"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "musica-ninar",
+  "version": "1.0.0",
+  "description": "projeto musica de ninar",
+  "main": "musica-ninar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "musica",
+    "ninar"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}

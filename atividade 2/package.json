@@ -1,0 +1,13 @@
+{
+  "name": "oscar",
+  "version": "1.0.0",
+  "description": "oscar",
+  "main": "oscar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "oscar"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}
